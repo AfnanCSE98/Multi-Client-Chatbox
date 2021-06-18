@@ -1,0 +1,6 @@
+john#123#admin
+alex#456#normal
+jaime#789#normal
+walter#abc#normal
+james#qwe#normal
+david#asd#normal
